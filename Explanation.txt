@@ -1,0 +1,22 @@
+Project Name: Multimodal Voice Assistant for Skin Disease Detection
+
+Project Description:
+The Multimodal Voice Assistant for Skin Disease Detection is an AI-powered tool that combines Llava (for multimodal image analysis) and OpenAI's Whisper (for speech-to-text conversion). It helps users identify and understand medical conditions, especially skin diseases. Users can upload images of skin conditions like psoriasis for accurate detection, and while the assistant also supports MRI and X-ray images, its accuracy with these is lower.
+
+How It Works:
+User Interface:
+The interface will allow you to upload an image of a skin disease, an MRI, or an X-ray.
+After uploading, you can ask questions by speaking, which the assistant will convert to text using Whisper.
+
+Speech Interaction:
+Speak your query, and the AI will analyze both the image and your question.
+
+Sample Prompts:
+For a skin disease: "What could be the treatment of the disease provided in the image?"
+For an X-ray: "Describe the X-ray report" or "Please provide details regarding the condition detected in the X-ray image."
+
+What to Expect:
+The AI, powered by Llava, will analyze the image and provide an accurate description, especially for skin diseases, along with possible treatments or precautions.
+
+Note: The assistant might not always understand X-ray images correctly, so it's not recommended for detailed X-ray analysis.
+This project provides a simple and interactive way to use both voice and image inputs for medical analysis, leveraging cutting-edge AI technologies.
